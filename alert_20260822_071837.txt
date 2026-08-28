@@ -1,0 +1,46 @@
+TO: manager@company.com
+SUBJECT: ⚠️ Business Anomaly Alert — 12 issue(s) detected
+-------------------------------------------------------
+AI Anomaly Agent Report — Generated 2026-08-22 07:10
+=======================================================
+
+Total anomalies detected: 12
+
+Date: 2026-05-21
+  Revenue increased sharply (+181.8% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-05-22
+  Revenue decreased sharply (-60.7% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-06-05
+  Refunds increased sharply (+547.4% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-06-06
+  Orders decreased sharply (-20.6% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-06-11
+  Conversion Rate increased sharply (+46.1% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-06-25
+  Traffic decreased sharply (-78.7% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-06-26
+  Traffic increased sharply (+266.0% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-07-10
+  Cost increased sharply (+146.2% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-07-11
+  Cost decreased sharply (-57.3% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-07-14
+  Conversion Rate increased sharply (+33.7% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-07-27
+  Conversion Rate increased sharply (+32.9% vs previous day), which is well outside its normal daily range.
+
+Date: 2026-07-29
+  Orders increased sharply (+23.0% vs previous day), which is well outside its normal daily range.
+
+=======================================================
+This is an automated alert from the AI Anomaly Agent.
